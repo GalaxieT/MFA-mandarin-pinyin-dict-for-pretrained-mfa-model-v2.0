@@ -88,16 +88,16 @@ bang5 1.0 p a˩ ŋ
 bang6 1.0 p a˨ ŋ
 bang7 1.0 p a˦ ŋ
 bang8 1.0 p a˩ ŋ
-bao1 1.0 p w o˥˥
-bao2 1.0 p w o˧˥
-bao3 1.0 p w o˨˩˦
-bao4 1.0 p w o˥˩
-bao5 1.0 p w o˨
-bao5 1.0 p w o˦
-bao5 1.0 p w o˩
-bao6 1.0 p w o˨
-bao7 1.0 p w o˦
-bao8 1.0 p w o˩
+bao1 1.0 p au˥˥
+bao2 1.0 p au˧˥
+bao3 1.0 p au˨˩˦
+bao4 1.0 p au˥˩
+bao5 1.0 p au˨
+bao5 1.0 p au˦
+bao5 1.0 p au˩
+bao6 1.0 p au˨
+bao7 1.0 p au˦
+bao8 1.0 p au˩
 bei1 1.0 p ei˥˥
 bei2 1.0 p ei˧˥
 bei3 1.0 p ei˨˩˦
@@ -978,16 +978,16 @@ ge5 1.0 k o˩
 ge6 1.0 k o˨
 ge7 1.0 k o˦
 ge8 1.0 k o˩
-gei1 1.0 tɕ i˥˥
-gei2 1.0 tɕ i˧˥
-gei3 1.0 tɕ i˨˩˦
-gei4 1.0 tɕ i˥˩
-gei5 1.0 tɕ i˨
-gei5 1.0 tɕ i˦
-gei5 1.0 tɕ i˩
-gei6 1.0 tɕ i˨
-gei7 1.0 tɕ i˦
-gei8 1.0 tɕ i˩
+gei1 1.0 k ei˥˥
+gei2 1.0 k ei˧˥
+gei3 1.0 k ei˨˩˦
+gei4 1.0 k ei˥˩
+gei5 1.0 k ei˨
+gei5 1.0 k ei˦
+gei5 1.0 k ei˩
+gei6 1.0 k ei˨
+gei7 1.0 k ei˦
+gei8 1.0 k ei˩
 gen1 1.0 k ə˥˥ n
 gen2 1.0 k ə˧˥ n
 gen3 1.0 k ə˨˩˦ n
@@ -1678,26 +1678,26 @@ lao5 1.0 l au˩
 lao6 1.0 l au˨
 lao7 1.0 l au˦
 lao8 1.0 l au˩
-le1 1.0 l ei˥˥
-le2 1.0 l ei˧˥
-le3 1.0 l ei˨˩˦
-le4 1.0 l ei˥˩
-le5 1.0 l ei˨
-le5 1.0 l ei˦
-le5 1.0 l ei˩
-le6 1.0 l ei˨
-le7 1.0 l ei˦
-le8 1.0 l ei˩
-lei1 1.0 l o˥˥
-lei2 1.0 l o˧˥
-lei3 1.0 l o˨˩˦
-lei4 1.0 l o˥˩
-lei5 1.0 l o˨
-lei5 1.0 l o˦
-lei5 1.0 l o˩
-lei6 1.0 l o˨
-lei7 1.0 l o˦
-lei8 1.0 l o˩
+le1 1.0 l o˥˥
+le2 1.0 l o˧˥
+le3 1.0 l o˨˩˦
+le4 1.0 l o˥˩
+le5 1.0 l o˨
+le5 1.0 l o˦
+le5 1.0 l o˩
+le6 1.0 l o˨
+le7 1.0 l o˦
+le8 1.0 l o˩
+lei1 1.0 l ei˥˥
+lei2 1.0 l ei˧˥
+lei3 1.0 l ei˨˩˦
+lei4 1.0 l ei˥˩
+lei5 1.0 l ei˨
+lei5 1.0 l ei˦
+lei5 1.0 l ei˩
+lei6 1.0 l ei˨
+lei7 1.0 l ei˦
+lei8 1.0 l ei˩
 leng1 1.0 l o˥˥ ŋ
 leng2 1.0 l o˧˥ ŋ
 leng3 1.0 l o˨˩˦ ŋ
@@ -1718,16 +1718,16 @@ li5 1.0 l i˩
 li6 1.0 l i˨
 li7 1.0 l i˦
 li8 1.0 l i˩
-lia1 1.0 l j a˥˥ ŋ
-lia2 1.0 l j a˧˥ ŋ
-lia3 1.0 l j a˨˩˦ ŋ
-lia4 1.0 l j a˥˩ ŋ
-lia5 1.0 l j a˨ ŋ
-lia5 1.0 l j a˦ ŋ
-lia5 1.0 l j a˩ ŋ
-lia6 1.0 l j a˨ ŋ
-lia7 1.0 l j a˦ ŋ
-lia8 1.0 l j a˩ ŋ
+lia1 1.0 l j a˥˥
+lia2 1.0 l j a˧˥
+lia3 1.0 l j a˨˩˦
+lia4 1.0 l j a˥˩
+lia5 1.0 l j a˨
+lia5 1.0 l j a˦
+lia5 1.0 l j a˩
+lia6 1.0 l j a˨
+lia7 1.0 l j a˦
+lia8 1.0 l j a˩
 lian1 1.0 l j e˥˥ n
 lian2 1.0 l j e˧˥ n
 lian3 1.0 l j e˨˩˦ n
@@ -2078,25 +2078,25 @@ mou5 1.0 m ou˩
 mou6 1.0 m ou˨
 mou7 1.0 m ou˦
 mou8 1.0 m ou˩
-mu1 1.0 m w o˥˥
-mu2 1.0 m w o˧˥
-mu3 1.0 m w o˨˩˦
-mu4 1.0 m w o˥˩
-mu5 1.0 m w o˨
-mu5 1.0 m w o˦
-mu5 1.0 m w o˩
-mu6 1.0 m w o˨
-mu7 1.0 m w o˦
-mu8 1.0 m w o˩
+mu1 1.0 m u˥˥
+mu2 1.0 m u˧˥
+mu3 1.0 m u˨˩˦
+mu4 1.0 m u˥˩
+mu5 1.0 m u˨
+mu5 1.0 m u˦
+mu5 1.0 m u˩
+mu6 1.0 m u˨
+mu7 1.0 m u˦
+mu8 1.0 m u˩
 n 1.0 ŋ̍˧˥
-n1 1.0 ŋ̍˧˥
+n1 1.0 ŋ̍˥˥
 n2 1.0 ŋ̍˧˥
-n3 1.0 ŋ̍˧˥
-n4 1.0 ŋ̍˧˥
-n5 1.0 ŋ̍˧˥
-n6 1.0 ŋ̍˧˥
-n7 1.0 ŋ̍˧˥
-n8 1.0 ŋ̍˧˥
+n3 1.0 ŋ̍˨˩˦
+n4 1.0 ŋ̍˥˩
+n5 1.0 ŋ̍˨
+n6 1.0 ŋ̍˨
+n7 1.0 ŋ̍˦
+n8 1.0 ŋ̍˩
 na1 1.0 n a˥˥
 na2 1.0 n a˧˥
 na3 1.0 n a˨˩˦
@@ -3766,16 +3766,16 @@ yun5 1.0 y˩ n
 yun6 1.0 y˨ n
 yun7 1.0 y˦ n
 yun8 1.0 y˩ n
-za1 1.0 ts o˥˥
-za2 1.0 ts o˧˥
-za3 1.0 ts o˨˩˦
-za4 1.0 ts o˥˩
-za5 1.0 ts o˨
-za5 1.0 ts o˦
-za5 1.0 ts o˩
-za6 1.0 ts o˨
-za7 1.0 ts o˦
-za8 1.0 ts o˩
+za1 1.0 ts a˥˥
+za2 1.0 ts a˧˥
+za3 1.0 ts a˨˩˦
+za4 1.0 ts a˥˩
+za5 1.0 ts a˨
+za5 1.0 ts a˦
+za5 1.0 ts a˩
+za6 1.0 ts a˨
+za7 1.0 ts a˦
+za8 1.0 ts a˩
 zai1 1.0 ts ai˥˥
 zai2 1.0 ts ai˧˥
 zai3 1.0 ts ai˨˩˦
@@ -3806,16 +3806,16 @@ zang5 1.0 ts a˩ ŋ
 zang6 1.0 ts a˨ ŋ
 zang7 1.0 ts a˦ ŋ
 zang8 1.0 ts a˩ ŋ
-zao1 1.0 ts w o˥˥
-zao2 1.0 ts w o˧˥
-zao3 1.0 ts w o˨˩˦
-zao4 1.0 ts w o˥˩
-zao5 1.0 ts w o˨
-zao5 1.0 ts w o˦
-zao5 1.0 ts w o˩
-zao6 1.0 ts w o˨
-zao7 1.0 ts w o˦
-zao8 1.0 ts w o˩
+zao1 1.0 ts au˥˥
+zao2 1.0 ts au˧˥
+zao3 1.0 ts au˨˩˦
+zao4 1.0 ts au˥˩
+zao5 1.0 ts au˨
+zao5 1.0 ts au˦
+zao5 1.0 ts au˩
+zao6 1.0 ts au˨
+zao7 1.0 ts au˦
+zao8 1.0 ts au˩
 ze1 1.0 ts o˥˥
 ze2 1.0 ts o˧˥
 ze3 1.0 ts o˨˩˦
@@ -3996,16 +3996,16 @@ zhua5 1.0 ʈʂ w a˩
 zhua6 1.0 ʈʂ w a˨
 zhua7 1.0 ʈʂ w a˦
 zhua8 1.0 ʈʂ w a˩
-zhuai1 1.0 j e˥˥
-zhuai2 1.0 j e˧˥
-zhuai3 1.0 j e˨˩˦
-zhuai4 1.0 j e˥˩
-zhuai5 1.0 j e˨
-zhuai5 1.0 j e˦
-zhuai5 1.0 j e˩
-zhuai6 1.0 j e˨
-zhuai7 1.0 j e˦
-zhuai8 1.0 j e˩
+zhuai1 1.0 ʈʂ w aj˥˥
+zhuai2 1.0 ʈʂ w aj˧˥
+zhuai3 1.0 ʈʂ w aj˨˩˦
+zhuai4 1.0 ʈʂ w aj˥˩
+zhuai5 1.0 ʈʂ w aj˨
+zhuai5 1.0 ʈʂ w aj˦
+zhuai5 1.0 ʈʂ w aj˩
+zhuai6 1.0 ʈʂ w aj˨
+zhuai7 1.0 ʈʂ w aj˦
+zhuai8 1.0 ʈʂ w aj˩
 zhuan1 1.0 ʈʂ w a˥˥ n
 zhuan2 1.0 ʈʂ w a˧˥ n
 zhuan3 1.0 ʈʂ w a˨˩˦ n
