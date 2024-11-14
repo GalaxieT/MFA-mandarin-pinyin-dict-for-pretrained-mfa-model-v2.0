@@ -1,3 +1,6 @@
+请注意，本字典**不**适用于mfa 3.0版本的模型（#8 ）
+Cannot work with model v3.0 (#8)
+
 Related project: [Montreal-Forced-Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner)
 
 A dictionary for Montreal-Forced-Aligner users to align mandarin data labeled in pinyin form using the mfa pretrained acoustic model v2.0.
